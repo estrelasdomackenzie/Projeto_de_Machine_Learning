@@ -10,9 +10,10 @@ Os acidentes de trabalho afetam milhares de brasileiros anualmente, trazendo con
 
 
 
+# Identificação do Grupo
 
-#@title Identificação do Grupo
-Aluno1 = '10433718, Aline Ferreira' #@param {type:"string"}
-Aluno2 = '10342208, Karen Santos' #@param {type:"string"}
-Aluno3 = '10444681, Natallia Oliveira' #@param {type:"string"}
-Aluno4 = '10442962, Rafael Ferreira' #@param {type:"string"}
+- **10433718** - Aline Ferreira  
+- **10342208** - Karen Santos  
+- **10444681** - Natallia Oliveira  
+- **10442962** - Rafael Ferreira  
+
