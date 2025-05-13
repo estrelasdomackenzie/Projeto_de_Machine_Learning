@@ -12,7 +12,6 @@ Os acidentes de trabalho afetam milhares de brasileiros anualmente, trazendo con
 
 
 #@title Identificação do Grupo
-
 Aluno1 = '10433718, Aline Ferreira' #@param {type:"string"}
 Aluno2 = '10342208, Karen Santos' #@param {type:"string"}
 Aluno3 = '10444681, Natallia Oliveira' #@param {type:"string"}
