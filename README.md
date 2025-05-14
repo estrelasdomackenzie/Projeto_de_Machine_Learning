@@ -19,7 +19,8 @@ Você pode acessá-lo diretamente aqui:
 
 Além disso, a versão completa da documentação também foi publicada na **Wiki, ferramenta nativa do GitHub**, disponível em:
 
-🔗 [Wiki do Projeto no GitHub]([https://github.com/estrelasdomackenzie/Projeto_de_Machine_Learning.wiki.git](https://github.com/estrelasdomackenzie/Projeto_de_Machine_Learning/wiki/1.Projeto-de-Machine-Learning:-An%C3%A1lise-Preditiva-de-Acidentes-de-Trabalho-nas-Regi%C3%B5es-do-Brasil))
+
+🔗 [Wiki do Projeto no GitHub](https://github.com/estrelasdomackenzie/Projeto_de_Machine_Learning/wiki/1.Projeto-de-Machine-Learning:-An%C3%A1lise-Preditiva-de-Acidentes-de-Trabalho-nas-Regi%C3%B5es-do-Brasil)
 
 
 
