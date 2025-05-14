@@ -10,6 +10,19 @@ Os acidentes de trabalho afetam milhares de brasileiros anualmente, trazendo con
 
 
 
+# Documentação Adicional
+
+O documento deste projeto está **anexado no corpo do notebook do projeto**, facilitando a leitura e compreensão integrada ao código.  
+Você pode acessá-lo diretamente aqui:
+
+🔗 [Notebook do Projeto no Google Colab](https://colab.research.google.com/drive/1EyLXhEeRqxyPImLwsbzGx4oOBWseZMX8#scrollTo=40b90843)
+
+Além disso, a versão completa da documentação também foi publicada na **Wiki, ferramenta nativa do GitHub**, disponível em:
+
+🔗 [Wiki do Projeto no GitHub](https://github.com/estrelasdomackenzie/Projeto_de_Machine_Learning.wiki.git)
+
+
+
 # Identificação do Grupo
 
 - **10433718** - Aline Ferreira  
