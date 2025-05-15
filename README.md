@@ -23,6 +23,7 @@ Além disso, a versão completa da documentação também foi publicada na **Wik
 
 🔗 [Wiki do Projeto no GitHub](https://github.com/estrelasdomackenzie/Projeto_de_Machine_Learning/wiki/1.Projeto-de-Machine-Learning:-An%C3%A1lise-Preditiva-de-Acidentes-de-Trabalho-nas-Regi%C3%B5es-do-Brasil)
 
+Fique a vontade para clonar este projeto e contribuir!
 
 🔗 [Passo a passo para clonar - Projeto_de_Machine_Learning](https://colab.research.google.com/drive/1EPmdjBs2TfAmYIC4mbIMt8c9eWt-oVZq?usp=sharing)
 
